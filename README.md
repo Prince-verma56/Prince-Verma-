@@ -69,6 +69,11 @@
          style="height: 250px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.2);" />
   </div>
 
-
+  <div style="text-align: center;">
+    <h3>mongoDB Certificate</h3>
+    <img src="https://github.com/Prince-verma56/Certificates/blob/main/Certificates%20of%20Me/MongoDB%20certificate%20by%20Simplilearn.jpg"
+         alt="MongoDB Certificate"
+         style="height: 250px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.2);" />
+  </div>
 
 </div>
